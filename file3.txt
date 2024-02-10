@@ -24,3 +24,5 @@ push now
 push again to test rules 
 
 made some more changes 
+
+added branch protection rule and push now 
