@@ -19,3 +19,10 @@ commit-1
 commit-2
 
 push now 
+
+
+push again to test rules 
+
+made some more changes 
+
+added branch protection rule and push now 
